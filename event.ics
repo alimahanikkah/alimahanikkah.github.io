@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nikkah Invitation//EN
+CALSCALE:GREGORIAN
+
+BEGIN:VEVENT
+UID:nikkah-20251231@invite
+DTSTAMP:20251201T120000Z
+DTSTART:20251231T150000Z
+DTEND:20251231T180000Z
+SUMMARY:Aun & Aliya's Nikkah
+DESCRIPTION:With the blessings of Allah, we invite you to our Nikkah ceremony.
+LOCATION:Mirha Ballroom, Block L North Nazimabad, Karachi
+END:VEVENT
+
+END:VCALENDAR
